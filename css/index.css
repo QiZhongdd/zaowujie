@@ -8,11 +8,11 @@ body {
   height: 5.125rem;
   /*perspective: 25rem;*/
 
-  /* animation: persPect 6s both;
+  animation: persPect 6s both;
   -ms-animation: persPect 6s both;
   -moz-animation: persPect 6s both;
   -webkit-animation: persPect 6s both;
-  -o-animation: persPect 6s both; */
+  -o-animation: persPect 6s both;
 }
 
 #box {
